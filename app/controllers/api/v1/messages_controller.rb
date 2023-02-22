@@ -3,9 +3,8 @@ class Api::V1::MessagesController < ApplicationController
 
   # GET /messages
   def index
-    @messages = Message.all
-
-    render json: @messages
+    random = Message.all.sample
+    render json: random, status: :ok
   end
 
   # GET /messages/1
