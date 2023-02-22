@@ -26,7 +26,7 @@
 
 # 📖 [Hello-rails-back-end] <a name="about-project"></a>
 
-**[Hello-rails-back-end]** is a practice project in which I configured react and rails as two apps. This repo serves as a back-end for Hello-react-front-end project. I connected both these repos and they works seamlessly.
+**[Hello-rails-back-end]** is a practice project in which I configured react and rails as two apps. This repo serves as a back-end for [Hello-react-front-end](https://github.com/Zuhaib042/hello-react-front-end.git) project. I connected both these repos and they works seamlessly.
 
 ## 🛠 Built With <a name="built-with"></a>
 
